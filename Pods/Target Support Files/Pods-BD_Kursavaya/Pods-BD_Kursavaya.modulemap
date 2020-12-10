@@ -1,0 +1,6 @@
+framework module Pods_BD_Kursavaya {
+  umbrella header "Pods-BD_Kursavaya-umbrella.h"
+
+  export *
+  module * { export * }
+}

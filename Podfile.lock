@@ -1,0 +1,26 @@
+PODS:
+  - Realm (10.2.0):
+    - Realm/Headers (= 10.2.0)
+  - Realm/Headers (10.2.0)
+  - RealmSwift (10.2.0):
+    - Realm (= 10.2.0)
+  - SwiftDataTables (0.8.2)
+
+DEPENDENCIES:
+  - RealmSwift
+  - SwiftDataTables
+
+SPEC REPOS:
+  trunk:
+    - Realm
+    - RealmSwift
+    - SwiftDataTables
+
+SPEC CHECKSUMS:
+  Realm: d7914ebf66bb182469726f997c4c38eff286aab0
+  RealmSwift: aad08b7dc8c732b7b5794286e9df83739bf834f1
+  SwiftDataTables: 1c6bd4d477b44b07df86ca22c5ae67c85fe894ff
+
+PODFILE CHECKSUM: 161e2d0c94bc6b05ddd2b29cfa2e0dcb93a84f13
+
+COCOAPODS: 1.10.0

@@ -1,0 +1,6 @@
+framework module Pods_BD_Kursavaya_BD_KursavayaUITests {
+  umbrella header "Pods-BD_Kursavaya-BD_KursavayaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
